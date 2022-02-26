@@ -4,6 +4,7 @@ OpenCore 0.7.7, Monterey 12.2.1
 ### Specs:
 Type | Details
 | -------------- |:----------------------------:|
+Motherboard | MSI Z97 GAMING 7
 CPU | Intel Core i5-4690K
 dGPU | Radeon RX 480 4 GB
 Displays | 2x 2560 × 1440
